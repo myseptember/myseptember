@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![image]([https://nikhilnayyar.web.app/_assets/img/avatar.jpg](https://cdn.discordapp.com/attachments/1134526202464456785/1281476915076792350/IMG_5553.jpeg?ex=66dbdbe1&is=66da8a61&hm=e8af35e3e42d49fac64f704f4aa2513d24dd8ee661bc222aa92cd7429803768b&))
 <!--
 **myseptember/myseptember** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
