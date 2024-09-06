@@ -1,4 +1,3 @@
-<p align="center"> ![image](https://71781816.carrd.co/assets/images/image01.jpg?v=267fd583)
+<p align="center"> ![image](https://71781816.carrd.co/assets/images/image01.jpg?v=267fd583) </p>
 ![](https://komarev.com/ghpvc/?username=myseptember&base=1000&color=lightgrey)
-</p>
 
