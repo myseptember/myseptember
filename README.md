@@ -3,4 +3,4 @@
 
 </p>
   
-  ![](https://komarev.com/ghpvc/?username=myseptember&base=1000&color=lightgrey&label=stars)
+  ![](https://komarev.com/ghpvc/?username=myseptember&base=1000&color=lightgrey&label=witnesses)
