@@ -1,6 +1,3 @@
-
-<p align="center"> let the bodies hit the floor </p>
-
 <p align="center"> 
   <img src="https://71781816.carrd.co/assets/images/image03.png?v=6c1a9ba0" height="350" width="350"> </p>
 
