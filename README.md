@@ -1,6 +1,6 @@
 ⠀
 
-<p align="center"> save the world⠀-⠀we are not friends, nextime </p>
+<p align="center"> save the world⠀-⠀we are not friends </p>
 ⠀
 
  <p align="center"> 
