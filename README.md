@@ -1,6 +1,6 @@
 ⠀
 
-<p align="center"> 
+<p align="center">
   
   ![](https://komarev.com/ghpvc/?username=myseptember&color=lightgrey&base=1000&label=victims)
 </p>
