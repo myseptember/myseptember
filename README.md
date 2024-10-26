@@ -1,3 +1,3 @@
 
    
-⠀ extremely shy & avoidant , sorry :(
+⠀ avoidant , sorry :(
