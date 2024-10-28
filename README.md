@@ -1,3 +1,3 @@
 
    
-⠀ could be on the toilet rn 🫶 
+⠀ could be on the toilet right now, youll never know ^_^
