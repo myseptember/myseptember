@@ -1,3 +1,3 @@
 
    
-⠀ could be on the toilet rn ^_^ saranghaeyo!~ 🫶
+⠀ could be on the toilet rn ^_^ saranghaeyo! 🫶
