@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**myseptember/myseptember** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img width="800" src="https://files.catbox.moe/z3p1q5.png" alt="divider top">
+</p>
+<p align="center">
+    <img width="150" src="https://files.catbox.moe/ayppdq.gif" alt="lacey!"> <img width="10p" src="https://files.catbox.moe/jilmbw.gif" alt="jay!"> <img width="10p" src="https://files.catbox.moe/h1lvuz.gif" alt="maisie!">
+</p>
+<p align="center">
+    <img width="300" src="https://files.catbox.moe/b4zhjz.gif" alt="divider middle">
+</p>
+<p align="center">
+    <img width="800" src="https://files.catbox.moe/z3p1q5.png" alt="divider top">
+</p>
